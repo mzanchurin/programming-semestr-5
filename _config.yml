@@ -1,13 +1,13 @@
 # Site settings
-title: Практикум на ЭВМ, семестр 6
-email: maxim.krivchikov@gmail.com
+title: Практикум на ЭВМ, семестр 5
+email: maxim.zanchurin@gmail.com
 description: "
 
 "
-baseurl: "/programming-semester-6/" # the subpath of your site, e.g. /blog/
-url: "https://maxxk.github.io" # the base hostname & protocol for your site
+baseurl: "/programming-semestr-5/" # the subpath of your site, e.g. /blog/
+url: "https://mzanchurin.github.io" # the base hostname & protocol for your site
 twitter_username:
-github_username:  maxxk
+github_username:  mzanchurin
 
 # Build settings
 markdown: kramdown
