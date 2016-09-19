@@ -1,4 +1,4 @@
-# Добрый день, группа 312!
+# Добрый день, группа 311!
 <style type="text/css">
 div.sourceCode {
   font-size: 1.2em;
@@ -31,8 +31,8 @@ section.slide > pre {
 - умножение квадратных матриц
 - первая задача
 
-Материалы к занятиям: https://maxxk.github.io/programming-semester-5/
-email: [maxim.krivchikov@gmail.com](mailto:maxim.krivchikov@gmail.com)
+email: [maxim.zanchurin@gmail.com](mailto:maxim.zanchurin@gmail.com)
+Материалы к занятиям: https://mzanchurin.github.io/programming-semestr-5/
 
 В дисплейных классах рекомендуется просматривать в браузере Firefox.
 В нём установлено расширение [NoScript](http://www.our-firefox.ru/kak-v-mozilla-firefox/noscript-dlya-firefox-nastrojjka.html), обратите внимание на инструкцию, иначе значительная часть сайтов не будет работать.

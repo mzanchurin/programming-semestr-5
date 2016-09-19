@@ -12,5 +12,4 @@ layout: default
 [презентация — html](presentations/02-CommandLine-Time-Debugging.html)
 
 ## Числа с плавающей точкой. Матричные нормы. Постановка задачи решения линейной системы.
-#[презентация — html](presentations/03-Matrix-Generate-Multiply.html)
-#[список задач](presentations/tasks-1.pdf)
+[презентация — html](presentations/03-Matrix-Generate-Multiply.html)
